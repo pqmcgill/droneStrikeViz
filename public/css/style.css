@@ -1,0 +1,35 @@
+.subunit.AFG,
+.subunit.IRN,
+.subunit.IRQ,
+.subunit.INX,
+.subunit.INA,
+.subunit.INL,
+.subunit.INN,
+.subunit.SYR,
+.subunit.JOR,
+.subunit.SAU,
+.subunit.ISR,
+.subunit.LBN,
+.subunit.ARE,
+.subunit.OMN,
+.subunit.EGY,
+.subunit.SDN,
+.subunit.ERI,
+.subunit.ETH,
+.subunit.DJI,
+.subunit.KEN,
+.subunit.SYU,
+.subunit.IRR,
+.subunit.IRK,
+.subunit.SYX { fill: #dedede; }
+.subunit.SOL,
+.subunit.SOX,
+.subunit.SOP,
+.subunit.PAK, .subunit.YES, .subunit.SOM, .subunit.YEM { fill: #dcd; }
+
+body {
+  //background-color: #A9CCFF;
+}
+#map {
+  margin: 0 auto;
+}
